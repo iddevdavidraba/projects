@@ -1,0 +1,11 @@
+Colombia/Bogota
+Argentina/Buenos Aires
+Brasil/Brasilia
+Peru/Lima
+Ecuador/Quito
+Paraguay/Asuncion
+Uruguay/Montevideo
+Chile/Santiago
+Italia/Roma
+Francia/Paris
+Venezuela/Caracas
